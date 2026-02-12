@@ -1,1 +1,1 @@
-C'est une un dictionnaire pour les règles du tarot
+C'est un dictionnaire pour les règles du tarot
